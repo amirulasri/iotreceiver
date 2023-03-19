@@ -1,0 +1,16 @@
+{
+  "name": "iotcontrollerclient",
+  "version": "1.0.0",
+  "description": "Control hardware easily",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "amirulasri",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^6.0.3",
+    "socket.io-client": "^4.6.1"
+  }
+}
